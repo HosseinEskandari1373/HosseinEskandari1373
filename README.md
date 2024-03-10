@@ -18,9 +18,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://linkedin.com/in/hossein-eskandari-3b04a318b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://linkedin.com/in/hossein-eskandari-3b04a318b" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/https://stackoverflow.com/users/14935886/hossein-eskandary" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/14935886/hossein-eskandary" height="30" width="40" /></a>
-<a href="https://instagram.com/https://www.instagram.com/h.esk1373/?utm_source=qr&igsh=mwq0dhk4eg52y285dw%3d%3d" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/h.esk1373/?utm_source=qr&igsh=mwq0dhk4eg52y285dw%3d%3d" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/hossein-eskandari-3b04a318b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://linkedin.com/in/hossein-eskandari-3b04a318b" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/14935886/hossein-eskandary" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/14935886/hossein-eskandary" height="30" width="40" /></a>
+<a href="[https://instagram.com/https://www.instagram.com/h.esk1373/?utm_source=qr&igsh=mwq0dhk4eg52y285dw%3d%3d](https://www.instagram.com/h.esk1373?igsh=MWQ0dHk4eG52Y285dw==)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/h.esk1373/?utm_source=qr&igsh=mwq0dhk4eg52y285dw%3d%3d" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
